@@ -2,4 +2,3 @@
 
 test_tag_renaming
 
-B!
